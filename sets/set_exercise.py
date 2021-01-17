@@ -19,7 +19,7 @@ print(cafe_ao_udom_set)
 cafe_ao_udom_set.remove("เพียวนม")
 print(cafe_ao_udom_set)
 # 5.จงเขียนคำสั่งเพื่อสุ่มลบหนึ่งค่าในตัวแปร cafe_ao_udom_set
-lob = cafe_ao_udom_set.pop()
+cafe_ao_udom_set.pop()
 print(cafe_ao_udom_set)
 # 6.จงเขียนคำสั่งเพื่อเคลียค่าของ cafe_ao_udom_set ทั้งหมด
 cafe_ao_udom_set.clear()
